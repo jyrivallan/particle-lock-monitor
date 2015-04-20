@@ -10,5 +10,5 @@ Wire D0 to a switch (or multiple serial connected switches) monitoring lock(s) s
 
 ## Hardware
 
-Two printable stl files match the author's dool locks. They make aligning standard microswitches to the locks much easier while having a nice look. Customize them to your needs.
+Three printable stl files match the author's dool locks. They make aligning standard microswitches to the locks much easier while having a nice look. Customize them to your needs.
 Printing showed good results with 0.3mm layer height 20% honeycomb infill.
