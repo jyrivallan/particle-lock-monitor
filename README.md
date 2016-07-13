@@ -1,8 +1,8 @@
-# spark-lock-monitor
+# particle-lock-monitor
 
 ## Firmware
 
-Flash spark-lock-monitor.ino on your firmware updated Spark Core or Spark Photon.
+Flash particle-lock-monitor.ino on your firmware updated Particle Core or Particle Photon.
 
 ## Wiring
 
